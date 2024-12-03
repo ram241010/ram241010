@@ -40,9 +40,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/g24aming"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="g24aming" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram241010&show_icons=true&locale=en&layout=compact" alt="ram241010" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram241010&show_icons=true&locale=en" alt="ram241010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram241010&" alt="ram241010" /></p>
