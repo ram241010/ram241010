@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/g24aming" target="blank"><img src="https://img.shields.io/twitter/follow/g24aming?logo=twitter&style=for-the-badge" alt="g24aming" /></a> </p>
 
+<img   src="https://media.discordapp.net/attachments/1242875275742543935/1313373884095008808/hacker.gif?ex=674fe63f&is=674e94bf&hm=f3cb4bf4eba9621af5bdb18ce83f91fc2eade96fe06e5b29830245450d5ab241&=&width=652&height=489" width="450px" align="right" alt="">
+
 - 🔭 I’m currently working on **ALESSA BOT**
 
 - 🌱 I’m currently learning **java,pythone etc**
